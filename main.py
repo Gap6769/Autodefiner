@@ -18,11 +18,11 @@ __license__ = "All rights reserved."
 __version__ = "Beta_Salesland"
 
 # ---GLOBAL VARIABLES---
-link = "https://secure-ausomxbga.crmondemand.com/OnDemand/logon.jsp?type=normal&lang=esn&reason=logoff"
+link = "xxxxxxxxxxxxxxxxxxxx"
 linkPractice = "https://www.tutorialspoint.com/selenium/selenium_automation_practice.htm"
-user = "EQUIFAX1/AXV3"
+user = "xxxx"
 passw = None
-nameExcel = "avial.xlsx"
+nameExcel = "xxxx.xlsx"
 driver = None
 
 df = pd.read_excel(nameExcel)
